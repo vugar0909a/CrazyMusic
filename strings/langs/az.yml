@@ -129,7 +129,7 @@ cplay_5 : "Yalnız Kanallar dəstəklənir."
 cplay_6 : "Bu qrupa qoşulmaq üçün kanalın [{0}] **Sahibi** olmalısınız.\n**Kanalın Sahibi:** @{1}\n\nAlternativ olaraq qrupunuzu əlaqələndirə bilərsiniz. həmin kanala və sonra `/channelplay linked` ilə qoşulmağa cəhd edin"
 
 #Play
-play_1 : "🔄 Sorğu emal olunur... Zəhmət olmasa gözləyin!"
+play_1 : "🪐 Musiqini qoşuram... Gözləyin zəhmət olmasa."
 play_2 : "**🏷 Kanal Oynatma Rejimi**\n\n🔄 Sorğu emal olunur... Zəhmət olmasa gözləyin!\n**Əlaqələndirilmiş Kanal:** {0}"
 play_3 : "Sorğunu emal etmək alınmadı!"
 play_4 : "🖇 **Yalnız Adminlər Oynadır**\nYalnız Adminlər və Auth İstifadəçiləri bu qrupda musiqi oxuya bilər.\n\nRejimi /playmode vasitəsilə dəyişin və artıq adminsinizsə, /admincache vasitəsilə admincache yeniləyin."
@@ -139,7 +139,7 @@ play_7 : "Bağışlayın! Bot CPU-nun həddən artıq yüklənməsi problemləri
 play_8 : "Etibarlı Video Fayl Genişlənməsi Deyil!\n\n**Dəstəklənən Formatlar:** {0}"
 play_9 : "Videonun Fayl Ölçüsü 1 GiB-dən Az Olmalıdır"
 play_10 : "**Youtube Pleylist Xüsusiyyəti**\n\nBütün Youtube Pleylistini oxutmaq istədiyiniz Rejimi seçin"
-play_11 : "🎵 **Başlıq:** {0}\n\n⏳ **Müddət:** {1}"
+play_11 : "💞 **Başlıq** {0}\n\n⏳ **Müddət:** {1}"
 play_12 : "**Spotify Play Mode**\n\n👤 Tələb: {0}"
 play_13 : "**Apple Playlists**\n\n👤 Tələb: {0}"
 play_14 : "**URL-i yoxlamaq mümkün olmadı.**\nBot bu url-in aşağıdakı platformalardan hər hansı birinə aid olub-olmaması ilə maraqlanır: Youtube, AppleMusic, Spotify, Resso və Soundcloud.\n\nM3u8 və ya Uzaqdan Linklər üçün /stream istifadə edə bilərsiniz. ."
@@ -214,7 +214,7 @@ queue_3 : "<u>**Növbəyə qoyulmuş yollar:</u>**  [Buradan daha çox növbəy�
 queue_4 : "⏭️ **Növbə:** #{0}\n\n🎵 **Başlıq:** {1}\n⏳ **Müddət:** {2}\n👤 **Tələb:** {3}"
 
 # All Streaming Lines
-stream_1 : "👤 **Tələb:** {0}\nℹ️ **Məlumat: **[Burada]({1})"
+stream_1 : "👤 **Tələb edən:** {0}\nℹ️ **Məlumat: **[Burada]({1})"
 stream_2 : "👤 **Tələb:** {0}"
 stream_3 : "🎵 **Başlıq:** {0}\n⏳ **Müddət:** {1}\n👤 **Tələb:** {2} "
 stream_4 : "🎵 **Başlıq:** [{0}]({1})\n**Müddət:** {2}\n👤 **Tələb:** {3}"
